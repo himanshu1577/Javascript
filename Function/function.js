@@ -18,3 +18,4 @@ function a() {
   }
   var b = 10;
   a();
+//final Output
